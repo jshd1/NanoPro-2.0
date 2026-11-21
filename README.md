@@ -21,14 +21,23 @@ The complete NanoPro 2.0 assembly is available as an interactive 3D model.
 **[Explore the Interactive 3D Assembly](https://a360.co/4eC8b1D)**
 
 The model allows users to:
+
 - Rotate, zoom, and inspect the complete microscope.
 - Explore individual optical and mechanical components.
 - Examine the positioning and arrangement of components.
 - Understand the instrument's construction before manufacturing and assembly.
 
+## Software
+
+The **NanoPro 2.0 control software**, including the graphical user interface (GUI) for microscope operation and image acquisition, is available in a separate GitHub repository:
+
+**[NanoPro 2.0 — Software Repository](https://github.com/OOKKSQL/NanoPro-2.0-software)**
+
+The software provides an integrated environment for controlling the microscope's hardware, including laser excitation, camera acquisition, precision sample positioning, and active focus stabilisation.
+
 ## Publication
 
-**Danial, J. S. H., et al.** *NanoPro 2.0: An Economical, Benchtop, and Fully Automated Microscope for High-Resolution Single-Molecule Localisation Microscopy.* Manuscript submitted for publication.
+**Metodieva, V, et al.** *NanoPro 2.0: An Economical, Benchtop, and Fully Automated Microscope for High-Resolution Single-Molecule Localisation Microscopy.* Manuscript submitted for publication.
 
 ## Contact
 
